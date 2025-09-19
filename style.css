@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+
+body {
+    background-image: url("./IMG/hatter2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 15px;
+    font-family: "Birthstone", cursive;
+    font-size: 1.4rem;
+}
+
+p, h3 {
+    color: rgb(0, 1, 2);
+}
+
+img {
+    max-width: 30vw;
+    float: left;
+    margin-right: 10px;
+}
+
+main {
+    background-color: rgba(245, 245, 245, 0.8);
+}
